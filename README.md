@@ -1,1 +1,2 @@
-# BattleShip Game using Java
+# Classic BattleShip Game 
+## Implemented with Java
